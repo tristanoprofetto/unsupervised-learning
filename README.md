@@ -1,7 +1,5 @@
 # Unsupervised-Learning Implementations
-Applying unsupervised statistical learning techniques to clean datasets.
-
-Unsupervised models provide a method of inferencing, detecting patterns, and gaining insight on data which lack a response variable.
+Applying unsupervised statistical learning techniques to clean datasets...Unsupervised models provide a method of inferencing, detecting patterns, and gaining insight on data which lack a response variable.
 
 The most commondly used Unsupervised-Learning techniques revolve around **Clustering** and **Dimensionality Reduction**...
 
